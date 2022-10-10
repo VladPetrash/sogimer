@@ -1,4 +1,3 @@
-<script>
 document.addEventListener('alpine:init', () => {
 
     Alpine.data('calculate', () => ({
@@ -546,4 +545,3 @@ document.addEventListener('alpine:init', () => {
         }
     }));
 });
-</script>
